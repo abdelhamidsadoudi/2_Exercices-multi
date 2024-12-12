@@ -1,4 +1,4 @@
-# Exercice 2 - # Renvoyer le premier mot d’une chaîne de caractères
+# Exercice 2 - Renvoyer le premier mot d’une chaîne de caractères
 
 def premiermot(chaine):
 
