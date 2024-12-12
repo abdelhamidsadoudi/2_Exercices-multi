@@ -1,4 +1,4 @@
-# Exercice 3 - # Mettre en majuscule la première lettre de chaque mot
+# Exercice 3 - Mettre en majuscule la première lettre de chaque mot
 
 def majuscule_mot(chaine):
 
