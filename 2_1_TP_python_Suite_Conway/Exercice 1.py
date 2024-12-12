@@ -1,4 +1,4 @@
-# Exercice 1 - #Créer une variable chaine
+# Exercice 1 - Créer une variable chaine
 
 chaine = "Il fait beau aujourd'hui. Je veux en profiter."
 
